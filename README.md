@@ -1,1 +1,24 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jf1Ho7mt)
+# 🌐 Blog Sitem
+
+Bu repo, **web tasarımı dersi için hazırladığım blog sitesini** içermektedir.
+
+## 🔗 Canlı Site Linki
+
+Blog sitesini buradan ziyaret edebilirsiniz:
+
+
+## 📌 Proje Hakkında
+
+Bu blog sitesi HTML ve temel web teknolojileri kullanılarak hazırlanmıştır.
+Sitede farklı blog yazıları ve içerikler bulunmaktadır.
+
+## 🛠 Kullanılan Teknolojiler
+
+* HTML5
+* CSS3
+* GitHub Pages (yayınlama için)
+
+## 👩‍💻 Geliştirici
+
+**Melisa Karaoğlan**
+Bilgisayar Mühendisliği Öğrencisi
